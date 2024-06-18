@@ -133,7 +133,6 @@ const Quiz = () => {
         (
           <div>
             <h2>{number}. {questions.question}</h2>
-
             <ul>
               {
                 questions.options.map((option, index) => (

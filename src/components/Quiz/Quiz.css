@@ -17,9 +17,10 @@
   background: #707070;
 }
 
-.container h2 {
+.container div h2 {
   font-size: 27px;
   font-weight: 500;
+  margin-bottom: 20px;
 }
 
 .container ul li{
